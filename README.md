@@ -28,39 +28,27 @@
 ---
 
 ## 🛠 Tech Stack
-<div align="center">
 
-### ✅ Backend
+### Backend
 <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA%2FHibernate-111827?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/QueryDSL-111827?style=for-the-badge&logoColor=white"/>
 
-<br/><br/>
-
-### 🗄️ Database
+### Data
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/H2-111827?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
-### ⚡ Cache
 <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=white"/>
 
-<br/><br/>
-
-### 🚢 DevOps
+### DevOps
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-<br/><br/>
-
-### 🌿 Version Control
+### Version Control
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 
-</div>
 
 ---
 
