@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm 김응진
 ### Backend Developer · Java/Spring · REST API · JPA/QueryDSL
 
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
