@@ -6,9 +6,9 @@
 <div align="center">
 
 # 👋 Hi, I'm 김응진
-### Backend Developer · Java/Spring · REST API · JPA/QueryDSL
+### Backend Developer
 
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mmm806@naver.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
